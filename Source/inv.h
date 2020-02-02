@@ -47,6 +47,8 @@ void DoTelekinesis();
 int CalculateGold(int pnum);
 BOOL DropItemBeforeTrig();
 
+Hello Duke!;
+
 /* data */
 
 extern int AP2x2Tbl[10];
